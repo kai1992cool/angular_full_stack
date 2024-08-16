@@ -1,0 +1,17 @@
+{
+    "location" : [
+        {
+            "id": "1",
+            "name": "pic1",
+            "desc": "lorem10dfdsfdsfdsfdsf",
+            "img": "../assets/do.jpg"
+          },
+          {
+            "id": "2",
+            "name": "pic2",
+            "desc": "lorem10dfdsfdsfdsfdsf",
+            "img": "../assets/images.jpg"
+          }
+        ]
+    
+}
